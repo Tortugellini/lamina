@@ -1,1 +1,1 @@
-Placeholder text.
+An effort to use machine learning methods to visually identify monolayer transition metal dichalcogenide materials.
