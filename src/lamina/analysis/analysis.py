@@ -1,6 +1,5 @@
 import numpy as np
-
-# from skimage import
+import skimage
 
 
 class Discerna:
